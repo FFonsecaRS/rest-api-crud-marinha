@@ -24,5 +24,5 @@ Exemplos do JSON para utilizar o CRUD da API REST:
 	"codigo":"AB788",
 	"nome":"Nafitalina pacate com 10",
 	"valor":15.50,
-	"categoria":{"id": 2}
+	"categoria":{"id": 1}
 }
